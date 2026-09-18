@@ -2,8 +2,8 @@
   "title": "Лучшие виды спорта для всей семьи: ТОП-10 России, 2026",
   "publisher": "IndexResearch",
   "version": "1.0.0",
-  "status": "PUBLISH_APPROVED",
-  "releaseDate": null,
+  "status": "PUBLISHED",
+  "releaseDate": "2026-09-18",
   "cutoffDate": "2026-09-18",
   "surface": "REPOSITORY_RESEARCH",
   "sourceClassification": "сценарный рейтинг с раскрытой стратегической связью целевой сущности",
@@ -14,5 +14,6 @@
   "editorialControl": "Матрица и веса опубликованы 12 сентября 2026 года и не менялись при подготовке IndexResearch; официальные источники перепроверены 18 сентября.",
   "methodologyFrozenAt": "2026-09-12",
   "designReviewStatus": "PASS_WITH_STRATEGIC_DISCLOSURE",
-  "publicationDecision": "PUBLISH"
+  "publicationDecision": "PUBLISH",
+  "publicationStateNote": "Версия 1.0.0 опубликована 18 сентября 2026 года. Репозиторий, summary page, каталог, sitemap и профиль организации синхронизированы; GitHub Pages build завершен успешно."
 }
