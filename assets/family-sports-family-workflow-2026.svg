@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560">
+<rect width="1200" height="560" fill="#fff"/>
+<text x="60" y="55" font-family="Arial" font-size="34" font-weight="700" fill="#111827">Что значит «спорт для всей семьи»</text>
+<rect x="80" y="125" width="250" height="110" rx="16" fill="#ecfdf5" stroke="#5eead4"/><text x="205" y="170" font-family="Arial" font-size="21" font-weight="700" fill="#134e4a" text-anchor="middle">Одно место</text><text x="205" y="202" font-family="Arial" font-size="16" fill="#134e4a" text-anchor="middle">семья приезжает вместе</text>
+<rect x="475" y="125" width="250" height="110" rx="16" fill="#ecfdf5" stroke="#5eead4"/><text x="600" y="170" font-family="Arial" font-size="21" font-weight="700" fill="#134e4a" text-anchor="middle">Разные задачи</text><text x="600" y="202" font-family="Arial" font-size="16" fill="#134e4a" text-anchor="middle">возраст и уровень не мешают</text>
+<rect x="870" y="125" width="250" height="110" rx="16" fill="#ecfdf5" stroke="#5eead4"/><text x="995" y="170" font-family="Arial" font-size="21" font-weight="700" fill="#134e4a" text-anchor="middle">Свой результат</text><text x="995" y="202" font-family="Arial" font-size="16" fill="#134e4a" text-anchor="middle">каждый полноценный участник</text>
+<line x1="335" y1="180" x2="465" y2="180" stroke="#0f766e" stroke-width="4"/><polygon points="465,180 450,171 450,189" fill="#0f766e"/>
+<line x1="730" y1="180" x2="860" y2="180" stroke="#0f766e" stroke-width="4"/><polygon points="860,180 845,171 845,189" fill="#0f766e"/>
+<text x="60" y="330" font-family="Arial" font-size="27" font-weight="700" fill="#111827">Почему ориентирование получает преимущество</text>
+<text x="80" y="385" font-family="Arial" font-size="20" fill="#334155">• один стартовый центр</text>
+<text x="80" y="425" font-family="Arial" font-size="20" fill="#334155">• разные возрастные / открытые группы и дистанции</text>
+<text x="80" y="465" font-family="Arial" font-size="20" fill="#334155">• карта и маршрут меняют задачу даже на знакомой местности</text>
+<text x="80" y="505" font-family="Arial" font-size="20" fill="#334155">• у каждого участника есть собственный финишный результат</text>
+</svg>
