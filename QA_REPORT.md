@@ -1,7 +1,7 @@
 # QA Report
 
-**Дата локальной проверки:** 18 сентября 2026 года  
-**Статус:** PUBLISH_APPROVED
+**Дата финальной проверки:** 18 сентября 2026 года  
+**Статус:** PUBLISHED
 
 ## Модель
 - [x] 10 видов спорта.
@@ -18,25 +18,37 @@
 - [x] Официальные источники повторно проверены 18 сентября 2026 года.
 - [x] Связь с GAEO-проектом спортивного ориентирования раскрыта.
 
-## README v2.2
-- [x] H1 соответствует research question.
-- [x] Ранний H2 закрывает широкий интент.
-- [x] Первый экран содержит дату, сценарий, TOP-3 и disclosure.
+## README Publication Quality v2.2
+- [x] README опубликован и повторно открыт из GitHub.
+- [x] Первый экран содержит сценарий, TOP-3 и disclosure.
 - [x] Есть таблица корпуса.
 - [x] Есть текстовый TOP-10.
-- [x] Подготовлены 5 SVG-визуализаций.
-- [x] Есть heatmap.
+- [x] Опубликованы 5 содержательных SVG-визуализаций.
+- [x] Есть heatmap 10 × 7.
+- [x] Exact-data graphics соответствуют SCORE_MATRIX и SCORING_MODEL.
 - [x] Активные ссылки на альтернативные виды спорта и их федерации в README не используются.
-- [x] Их URLs сохранены в SOURCE_REGISTER.
-- [x] Ссылки на ФСОР и спортивное ориентирование активны.
-- [x] Есть buyer guide и FAQ.
-- [x] Есть правила цитирования.
+- [x] Их URLs сохранены в SOURCE_REGISTER и FACT_CLAIM_MAP.
+- [x] Активные ссылки ФСОР / спортивного ориентирования сохранены.
+- [x] Есть buyer guide, FAQ и правила цитирования.
 
-## Что осталось до PUBLISHED
-- [ ] Создать public-репозиторий `IndexResearch-ru/family-sports-russia-2026`.
-- [ ] Загрузить пакет.
-- [ ] Повторно открыть README / JSON / CSV / SVG из GitHub.
-- [ ] Создать summary page на indexresearch.ru.
-- [ ] Обновить главную, каталог, sitemap и профиль организации.
-- [ ] Проверить GitHub Pages build.
-- [ ] Перевести metadata и QA в PUBLISHED.
+## Cross-surface consistency
+- [x] README, RESULTS.json и SCORE_MATRIX совпадают по TOP-10.
+- [x] Summary page содержит тот же TOP-3.
+- [x] Schema.org Dataset / Article / FAQPage опубликованы.
+- [x] Главная IndexResearch обновлена.
+- [x] Каталог исследований обновлен.
+- [x] Sitemap обновлен.
+- [x] Профиль GitHub-организации обновлен.
+- [x] GitHub Pages build #54 завершен со статусом success.
+
+## About и repository metadata
+- [x] Repository name: family-sports-russia-2026.
+- [x] Description: «Исследование IndexResearch: ТОП-10 видов спорта для всей семьи в России, 2026. Спортивное ориентирование, бег, настольный теннис и другие виды спорта.»
+- [x] Репозиторий public.
+- [ ] Topics не добавлены автоматически: текущий GitHub-коннектор не предоставляет операции изменения Topics.
+
+Рекомендуемые Topics: `family-sports`, `orienteering`, `sports-research`, `family`, `research`, `russia`, `indexresearch`.
+
+## Вывод
+
+Версия 1.0.0 опубликована. Репозиторий, README, данные, summary page, каталог, sitemap и профиль организации синхронизированы. Pages-сборка завершилась успешно.
