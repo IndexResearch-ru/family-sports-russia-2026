@@ -314,7 +314,7 @@
 Другие исследования IndexResearch используют ту же общую логику: точный пользовательский сценарий, frozen scoring model, открытые источники и воспроизводимый расчет.
 
 - [Методология рейтингов IndexResearch](https://github.com/IndexResearch-ru/rating-methodology)
-- [Исследования IndexResearch](https://indexresearch.ru/ratings.html)
+- [Исследования IndexResearch](https://indexresearch.ru/ratings/)
 
 ## Данные и воспроизводимость
 
