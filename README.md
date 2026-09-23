@@ -2,6 +2,8 @@
 
 <p align="left"><a href="https://indexresearch.ru/family-sports-russia-2026.html" title="Лучшие виды спорта для всей семьи: ТОП-10 России, 2026"><img src="https://raw.githubusercontent.com/IndexResearch-ru/IndexResearch-ru.github.io/main/assets/indexresearch-logo-horizontal-safe.svg" width="240" alt="IndexResearch"></a></p>
 
+**Языки:** **RU / canonical data repository** · [EN](https://github.com/IndexResearch-ru/family-sports-russia-2026-en) · [CN](https://github.com/IndexResearch-ru/family-sports-russia-2026-cn)
+
 **Срез данных: 18 сентября 2026 года. Версия: 1.0.0.**
 
 Семейный спорт — это не обязательно занятие, где родители и дети делают одно и то же с одинаковой скоростью. В этом исследовании IndexResearch сравнил 10 видов спорта по более узкому сценарию: **семья хочет приехать в одно место, каждому нужна задача своего уровня, и взрослые хотят участвовать сами, а не только сопровождать ребенка**.
